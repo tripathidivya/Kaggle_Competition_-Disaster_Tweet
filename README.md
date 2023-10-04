@@ -13,15 +13,15 @@ train.csv: Training data with labels.
 test.csv: Test data for making predictions.
 
 **Logic**:
-Take data
-Apply Tokenization
-Cleaned the data: Hyphens, Numbers, Punctuation, removing unnecessary white space, Contractions words
-Convert string to lowercase
-Apply Lemmatization
-Plot WordCloud
-Apply Vectorization
-Baseline Model: MultinomialNB() / svm.SVC()
-Add vectorization.transform function to pipeline and model.predict to pipeline
+1.Take data
+2. Apply Tokenization
+3. Clean the data: Hyphens, Numbers, Punctuation, removing unnecessary white space, Contractions words
+4. Convert string to lowercase
+5. Apply Lemmatization
+6. Plot WordCloud
+7. Apply Vectorization
+8. Baseline Model: MultinomialNB() / svm.SVC()
+9. Add vectorization.transform function to pipeline and model.predict to pipeline
 
 **Usage**:
 Clone this repository to your local machine.
