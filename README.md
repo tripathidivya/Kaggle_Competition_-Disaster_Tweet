@@ -1,10 +1,10 @@
 # Kaggle_Competition_-Disaster_Tweet
 Linked Project from Kaggle
 Kaggle Competition - Disaster Tweet
-Overview
+**Overview**:
 This repository contains code and resources for the Kaggle competition "Disaster Tweet." The competition's goal is to develop a machine learning model to classify tweets as either related to a disaster or not.
 
-Data
+Data:
 The dataset consists of labeled tweets, with a binary target variable indicating whether a tweet is disaster-related or not. You can find the dataset on Kaggle here.
 
 Files
